@@ -21,7 +21,7 @@ Web application recommending to shops using spring, javascript
 * 웹 API 개발 
 
 ### DESCRIPTION
-**추천 시스템**
+* **추천 시스템**
 1. SHOP은 각 키워드마다 유저들의 평가로 점수를 받는다. 
 2. 유저들은 장소와 키워드를 선택하여 검색한다.
 3. 해당 장소에 위치한 SHOP의 키워드 중 선택된 키워드 점수만 합산한다.
