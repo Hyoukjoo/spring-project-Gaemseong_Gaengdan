@@ -1,6 +1,9 @@
 # spring-project-Gaemseong Gaengdan
 Web application recommending to shops using spring, javascript
 
+### PROJECT LINK
+* [PROJECT LINK](https://github.com/jeongminlee-9190/project-spring-)
+
 ### OUTLINE
 * 키워드를 통해 유저가 원하는 상점을 추천
 
@@ -15,6 +18,7 @@ Web application recommending to shops using spring, javascript
 
 ### MY PART
 * 프로젝트 주제와 기능 구현 기획
+* **추천 시스템 개발**
 * 웹 페이지 UX/UI 기획
 * SPRING을 이용하여 백엔드 구성 
 * 데이터베이스 연결 및 SQL 작성
