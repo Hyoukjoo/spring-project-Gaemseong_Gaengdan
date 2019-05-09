@@ -1,8 +1,8 @@
 # spring-project-Gaemseong Gaengdan
 Web application recommending to shops using spring, javascript
 
-### PROJECT LINK
-* [PROJECT LINK](https://github.com/jeongminlee-9190/project-spring-)
+### PROJEC LINK
+* 실제 저장소 링크 - [PROJECT LINK](https://github.com/jeongminlee-9190/project-spring-)
 
 ### OUTLINE
 * 키워드를 통해 유저가 원하는 상점을 추천
